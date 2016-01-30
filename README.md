@@ -12,3 +12,11 @@ Dissyves realiza la producción de un sistema de monitorización de constantes v
 y distintas señales biométricas de un enfermo en estado vegetativo. La monitorización es
 inteligente, pues avisa al cuidador cuando se produce una situación de alerta en la que es
 preciso actuar, lo que permite una mejora en la atención al enfermo.
+
+###[Memoria Dissyves](https://github.com/rafaeling/dissyves/blob/master/Dissyves.pdf)
+
+
+###[Ajuste Proyecto Dissyves](https://github.com/rafaeling/dissyves/blob/master/AjusteProyecto.pdf)
+
+
+###[Plan Empresa Dissyves](https://github.com/rafaeling/dissyves/blob/master/PlanEmpresa.pdf)
