@@ -13,7 +13,7 @@ y distintas señales biométricas de un enfermo en estado vegetativo. La monitor
 inteligente, pues avisa al cuidador cuando se produce una situación de alerta en la que es
 preciso actuar, lo que permite una mejora en la atención al enfermo.
 
-El proyecto se encuentra en fase de desarrollo. En los siguientes apartados se encuentran una explicación detallada sobre el proyecto.
+El proyecto se encuentra en fase de desarrollo. En los siguientes apartados se encuentra una explicación detallada sobre el proyecto.
 
 ###[Memoria Dissyves](https://github.com/rafaeling/dissyves/blob/master/Dissyves.pdf)
 
